@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html,
 body {
   padding: 0;
@@ -13,4 +17,12 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.side-nav .selected .icon{
+  @apply bg-[#f97f67] shadow text-white
+}
+
+.side-nav .selected .title{
+  @apply font-bold text-black
 }
