@@ -451,10 +451,11 @@ export default function Home() {
             </Popover>
           </section>
           <section className="mt-8">
-            <h1 className="text-xl font-medium">Today's Top Cities</h1>
+            <h1 className="text-xl font-medium">Today Top Cities</h1>
             <section className="flex">
               <figure className="w-1/2 h-5/12 py-6 pr-4">
                 <img
+                alt="vfdjvjkfd"
                   src="/images/home.jpg"
                   className="rounded-lg h-full object-cover w-full"
                 />
@@ -509,6 +510,7 @@ export default function Home() {
             <div className=" w-28 h-24">
               <figure className="w-full overflow-hidden rounded-3xl h-full">
                 <img
+                alt="vfdjvjkfd"
                   src="/images/home.jpg"
                   className=" h-full object-cover w-full"
                 />
@@ -517,6 +519,7 @@ export default function Home() {
             <div className="w-28 h-24">
               <figure className="rounded-3xl overflow-hidden w-full h-full">
                 <img
+                alt="vfdjvjkfd"
                   src="/images/home.jpg"
                   className=" h-full object-cover w-full"
                 />
@@ -528,6 +531,7 @@ export default function Home() {
                   <p className="text-white font-bold text-lg">+3</p>
                 </div>
                 <img
+                alt="vfdjvjkfd"
                   src="/images/home.jpg"
                   className=" h-full object-cover w-full"
                 />
