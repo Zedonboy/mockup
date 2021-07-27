@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+
+#nav-bar .active {
+  @apply text-yellow-400
+}
+
 html,
 body {
   padding: 0;
